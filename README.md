@@ -1,4 +1,4 @@
-#StudyPal 
+# StudyPal 
 
 A collaborative learning mobile application designed for students to interact, share knowledge, and support each other in real time. The app provides peer-to-peer communication features and fosters a community-driven learning environment.
 
